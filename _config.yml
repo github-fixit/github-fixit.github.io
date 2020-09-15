@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 title: [GitHub Fixit]
 description: [This is a website for the GitHub Fixit project]
-show_downloads: ["true"]
+show_downloads: ["false"]
