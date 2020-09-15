@@ -1,39 +1,13 @@
 ## GitHub Fixit
 
-You can use the [editor on GitHub](https://github.com/github-fixit/github-fixit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm.org/doi/10.1145/1831708.1831738) where students forms teams to fix GitHub issues reported in open-source Java projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-```
 ### Project Assignments
 
 - [Proposal](https://github-fixit.github.io/CS304ProjectProposal.pdf)
 - [Progress Report](https://github-fixit.github.io/CS304ProgressReport.pdf)
 - [Final Presentation](https://github-fixit.github.io/CS304FinalPresentation.pdf)
 
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/github-fixit/github-fixit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact [Dr. Shin Hwei Tan](mailto:tansh3@sustech.edu.cn?subject=[GitHub Fixit]) for questions and suggestions.
