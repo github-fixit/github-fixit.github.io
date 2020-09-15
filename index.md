@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Fixit
 
 You can use the [editor on GitHub](https://github.com/github-fixit/github-fixit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,9 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+## Project Assignments
 
-[Link](url) and ![Image](src)
+- [Proposal](CS304ProjectProposal.pdf)
+- [Progress Report](CS304ProgressReport.pdf)
+- [Final Presentation](CS304FinalPresentation.pdf)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
