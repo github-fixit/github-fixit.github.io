@@ -20,14 +20,13 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-## Project Assignments
-
-- [Proposal](CS304ProjectProposal.pdf)
-- [Progress Report](CS304ProgressReport.pdf)
-- [Final Presentation](CS304FinalPresentation.pdf)
-
 ```
+### Project Assignments
+
+- [Proposal](https://github-fixit.github.io/CS304ProjectProposal.pdf)
+- [Progress Report](https://github-fixit.github.io/CS304ProgressReport.pdf)
+- [Final Presentation](https://github-fixit.github.io/CS304FinalPresentation.pdf)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
