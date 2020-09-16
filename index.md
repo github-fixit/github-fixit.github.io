@@ -12,9 +12,17 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 
 ### Videos posted by teams who signed up for best group nomination
 
-- Video by team [JOJO](https://b23.tv/aTwVzU)
-- Video by team [bug_resource_machine](https://www.youtube.com/watch?v=wJv0-aiKU6o&feature=youtu.be)
-- Video by team [mahoushoujio](https://drive.google.com/file/d/12tYBWkHqiuOlhGO106WH1ofwqv3cd488/view?usp=sharing)
+- Video by team JOJO:
+[<img src="https://img.youtube.com/vi/EBcGYV51Np8/maxresdefault.jpg" width="50%">](EBcGYV51Np8)
+- Video by team bug_resource_machine:
+
+[<img src="https://img.youtube.com/vi/wJv0-aiKU6o/maxresdefault.jpg" width="50%">](https://youtu.be/wJv0-aiKU6o)
+
+- Video by team mahoushoujio:
+
+[<img src="https://img.youtube.com/vi/dPK_MO7UwFM/maxresdefault.jpg" width="50%">](https://youtu.be/dPK_MO7UwFM)
+
+
 
 ### Contact
 
