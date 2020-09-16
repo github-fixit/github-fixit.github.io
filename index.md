@@ -13,14 +13,15 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 ### Videos posted by teams who signed up for best group nomination
 
 - Video by team JOJO:
-[<img src="https://img.youtube.com/vi/EBcGYV51Np8/maxresdefault.jpg" width="50%">](EBcGYV51Np8)
+
+[<img src="https://i9.ytimg.com/vi/EBcGYV51Np8/mq1.jpg?sqp=CIyLhvsF&rs=AOn4CLA15dxLq31eLMTBsYkRjDOS5vFHVQ" width="50%">](https://youtu.be/EBcGYV51Np8)
 - Video by team bug_resource_machine:
 
 [<img src="https://img.youtube.com/vi/wJv0-aiKU6o/maxresdefault.jpg" width="50%">](https://youtu.be/wJv0-aiKU6o)
 
 - Video by team mahoushoujio:
 
-[<img src="https://img.youtube.com/vi/dPK_MO7UwFM/maxresdefault.jpg" width="50%">](https://youtu.be/dPK_MO7UwFM)
+[<img src="https://i9.ytimg.com/vi/dPK_MO7UwFM/mq2.jpg?sqp=CIyLhvsF&rs=AOn4CLDrPfWtb_83bVAGsPyoadFPQf9R5Q" width="50%">](https://youtu.be/dPK_MO7UwFM)
 
 
 
