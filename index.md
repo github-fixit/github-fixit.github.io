@@ -12,7 +12,8 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 
 ### Additional resources
 - [How to start working on open source project from 0](https://www.youtube.com/watch?v=k1T5Wbx0NMw&feature=youtu.be)
-
+- [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html)
+- [Android Resource Naming Cheat Sheet](https://jeroenmols.com/img/blog/resourcenaming/resourcenaming_cheatsheet.pdf)
 
 
 ### Videos posted by teams who signed up for best group nomination
