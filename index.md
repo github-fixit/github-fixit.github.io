@@ -10,6 +10,11 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 - [Final Presentation](https://github-fixit.github.io/CS304FinalPresentation.pdf)
 
 
+### Additional resources
+- [How to start working on open source project from 0](https://www.youtube.com/watch?v=k1T5Wbx0NMw&feature=youtu.be)
+
+
+
 ### Videos posted by teams who signed up for best group nomination
 
 - Video by team JOJO:
