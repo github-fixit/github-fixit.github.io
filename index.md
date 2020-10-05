@@ -16,8 +16,9 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 - [Android Resource Naming Cheat Sheet](https://jeroenmols.com/img/blog/resourcenaming/resourcenaming_cheatsheet.pdf)
 
 ### Survey
-- [Survey Questionaire](https://github-fixit.github.io/survey-question.pdf)
- 
+- [Questionaire](https://github-fixit.github.io/survey-question.pdf)
+- [Results](https://github-fixit.github.io/survey-results.pdf)
+
 
 ### Videos for best group nomination
 
