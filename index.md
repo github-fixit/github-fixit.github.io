@@ -23,7 +23,7 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 - **214** pull requests, **59** merged, **82** closed 
 - [Detailed Results](https://github-fixit.github.io/results.html)
 
-### Videos for best group nomination
+### Best group
 
 - Video by team [JOJO](https://youtu.be/EBcGYV51Np8)
 - Video by team [bug_resource_machine](https://youtu.be/wJv0-aiKU6o)
