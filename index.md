@@ -19,6 +19,9 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 - [Questionaire](https://github-fixit.github.io/survey-question.pdf)
 - [Results](https://github-fixit.github.io/survey-results.pdf)
 
+### Pull Requests 
+- **214** pull requests, **59** merged, **82** closed 
+- [Detailed Results](https://github-fixit.github.io/results.html)
 
 ### Videos for best group nomination
 
