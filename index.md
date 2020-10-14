@@ -9,6 +9,9 @@ GitHub Fixit is a project inspired by the [Google FindBugs fixit](https://dl.acm
 - [Progress Report](https://github-fixit.github.io/CS304ProgressReport.pdf)
 - [Final Presentation](https://github-fixit.github.io/CS304FinalPresentation.pdf)
 
+### Slides
+![Weekly Schedule](https://github-fixit.github.io/schedule.png)
+- [Lectures and Lab](https://github-fixit.github.io/CS304slides.zip)
 
 ### Additional resources
 - [How to start working on open source project from 0](https://www.youtube.com/watch?v=k1T5Wbx0NMw&feature=youtu.be)
