@@ -1,6 +1,6 @@
 ## GitHub Fixit
 
-GitHub Fixit is a project inspired by [GSOC](https://summerofcode.withgoogle.com) and the [Google FindBugs fixit](https://dl.acm.org/doi/10.1145/1831708.1831738) where students forms teams to fix GitHub issues reported in open-source Java projects. 
+GitHub Fixit is a project inspired by [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com) and the [Google FindBugs fixit](https://dl.acm.org/doi/10.1145/1831708.1831738) where students forms teams to fix GitHub issues reported in open-source Java projects. 
 
 
 ### Project Assignments
