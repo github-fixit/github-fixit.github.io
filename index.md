@@ -4,7 +4,7 @@ GitHub-OSS Fixit is a project inspired by [Google Summer of Code (GSoC)](https:/
 
 The project is selected as one of the winners for the [World Teacher Day Challenge 2020](https://www.twilio.com/blog/computer-science-lessons-around-world) organized by TwilioQuest, STEM.org, CSTA and GitHub. You can download the lesson plan at this [link](https://github-fixit.github.io/WorldTeacherDayChallenge.pdf).
 
-
+The preprint version of our ICSE-JSEET paper is available at [paper-link](https://arxiv.org/abs/2011.14392)
 
 ### Project Assignments
 
