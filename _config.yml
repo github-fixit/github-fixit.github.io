@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 title: [GitHub-OSS Fixit]
 description: [Fixing bugs at scale in a Software Engineering Course]
 show_downloads: ["false"]
+ga('create', '{{ site.google_analytics }}', 'auto');
